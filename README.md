@@ -11,8 +11,10 @@ Rules of Pig Dice:
 <li>If you hold, then points for the turn are added to total score for the game and the turn count increases by 1</li>
 </ol>
 
+## Functional Decomposition
+
 ## Directions
-Complete the PigDice.cpp template provided which should use the procedural programming approach presented in CSC 175 to implement the Pig Dice game described above. 
+Create the Pig Dice game presented above using the functional components outlined in the given diagram. The finished code must produce the output that matches the example game interface shown in the test case below.
 
 ### Your solution code should include the following:
 <ul>
