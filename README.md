@@ -13,7 +13,7 @@ Rules of Pig Dice:
 
 ## Functional Decomposition
 
-<img src="PigDice.png" alt="Color Rules" width="250">
+<img src="PigDice.png" alt="Pig Dice" width="400">
 
 ## Directions
 Create the Pig Dice game presented above using the functional components outlined in the given diagram. The finished code must produce the output that matches the example game interface shown in the test case below.
