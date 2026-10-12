@@ -18,23 +18,6 @@ Rules of Pig Dice:
 ## Directions
 Create the Pig Dice game presented above using the functional components outlined in the given diagram. The finished code must produce the output that matches the example game interface shown in the test case below.
 
-### Your solution code should include the following:
-<ul>
-<li>Break the solution down into functions such as:</li>
-<ul><li>playGame function</li>
-<li>takeTurn function</li>
-<li>roll function</li>
-<li>hold function</li></ul>
-<li>Pass parameters by reference between functions (no global variables)</li>
-<li>Make use of loop constructs like the while loop</li>
-<li>Make use of the GameState structure provided in the template</li>
-</ul>
-
-<b>Note: Your solution must recreate the <i>exact</i> user interface shown below.</b>
-
-
-
-
 ## Interface Prototype Example
 
 ### Test Case Output
